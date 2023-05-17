@@ -1,1 +1,1 @@
-python epoch2date.sh wpa_supplicant.log
+python epoch2date.py wpa_supplicant.log
